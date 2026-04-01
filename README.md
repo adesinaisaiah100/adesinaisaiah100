@@ -1,6 +1,6 @@
 # Hi there! I'm Isaiah Adesina 👋
 
-I am a developer who loves turning ideas into interactive, everyday web applications. My focus is on creating clean, intuitive user experiences and exploring how new technologies—like AI—can make our digital tools smarter and more helpful. 
+I am a developer who loves turning ideas into interactive, everyday web/mobile  applications. My focus is on creating clean, intuitive user experiences and exploring how new technologies—like AI—can make our digital tools smarter and more helpful. 
 
 Whether it's building a portfolio from scratch, designing a smart recipe generator, or creating fun browser games, I enjoy building things that people can actually use. 
 
