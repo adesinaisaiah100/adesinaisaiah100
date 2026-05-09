@@ -1,4 +1,4 @@
-# Hi there! I'm Isaiah Adesina 👋
+# Hi there! I'm Oluwatimileyin Adesina 👋
 
 I am a developer who loves turning ideas into interactive, everyday web/mobile  applications. My focus is on creating clean, intuitive user experiences and exploring how new technologies—like AI—can make our digital tools smarter and more helpful. 
 
